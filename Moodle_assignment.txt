@@ -1,0 +1,30 @@
+We are going to use GitHub classroom for assignment submissions.
+While the website https://www.billmongan.com/posts/2020/02/githubclassroom/
+is directed toward teachers, it will give you a good idea of the advantages
+and workflow of Github classroom.
+
+We will assume that the system that you are working on has a git client installed.
+You can download Git for Windows at https://git-scm.com/download/win which will
+enable you to use git commands in Windows PowerShell.  If you are working on a Mac,
+if you try to run git by typing "git --version", your system will prompt you to 
+install it.  On Linux, git is probably already installed, but if not, on Ubuntu do
+"sudo apt install git-all" and on Centos/Fedora do "sudo dnf install git-all".
+
+You should already have a GitHub account.  If not, go to https://github.com and build one.
+To do the Moodle part of the first assignment, submit the identifier and the e-mail for
+your GitHub account.
+
+Please join the organization "UM-cloud-computing".  [Fred: I may need to invite all
+students to join this organization.  You are not currently a member, so try this out
+without being a member.]
+
+To get the GitHub part of the first assignment, click on 
+https://classroom.github.com/a/3Ll_Zqz1.  You will be asked to identify with your e-mail 
+address in the GitHub roster.  When your github account is linked to the classroom,
+you will get your version of the repsository for this account.  Read the "README.md"
+file to get the details of the assignment.
+
+
+
+
+

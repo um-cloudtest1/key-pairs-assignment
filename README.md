@@ -3,7 +3,6 @@ Resources for this assignment:
 2. https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 3. https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 4. https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
-5. https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
 
 You should already have a GitHub account and you should have joined the GitHub organization "UM-cloud-computing".
 
@@ -33,6 +32,7 @@ Deliverable:  Include your public key file in your git repository for this accou
 and push it to GitHub.  The name of this public key file should be .ssh/ed25519.pub which is 
 in the subfolder .ssh of your home directory.  To do this in the command line, do the following steps:
 1.  Copy your public key file (probably $HOME/.ssh/ed25519.pub) into your repository folder.
+2.  Add an password to your private key.  It is always a good idea to protect private keys with a secure password. It probably isn't important that different private keys have different passwords.  Passwords can be changed later.
 2.  Add the file to git with "git add ed25519.pub".
 3.  Do a commit with the command "git commit -a -m "Commit of file ed25519.pub"
 4.  Do "git push origin".  (This will push this change to the GitHub version of the repository.)
